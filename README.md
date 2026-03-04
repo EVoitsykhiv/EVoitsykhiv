@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Eduard
 
-<!--
-**EVoitsykhiv/EVoitsykhiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Automation Developer
 
-Here are some ideas to get you started:
+I build small tools and scripts for automation, data extraction and bots.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+* Python
+* Web Scraping
+* Telegram Bots
+* API Integration
+* Data Processing
+* Automation Scripts
+
+## 🧰 Tools
+
+* Python
+* Requests
+* BeautifulSoup
+* Telethon
+* Pandas
+* Flask
+
+## 📂 Portfolio Projects
+
+* Telegram Username Scraper
+* Website Email Scraper
+* Internet Connection Monitor
+* PDF to Excel Converter
+* Simple Telegram Bot
+
+## 📫 Contact
+
+Available for freelance work.
