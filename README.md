@@ -2,34 +2,51 @@
 
 Python Automation Developer
 
-I build small tools and scripts for automation, data extraction and bots.
+I build automation tools, scrapers and bots using Python.
 
-## 🔧 Skills
+---
 
-* Python
-* Web Scraping
-* Telegram Bots
-* API Integration
-* Data Processing
-* Automation Scripts
+## 🚀 Skills
 
-## 🧰 Tools
+- Python
+- Web Scraping
+- Telegram Bots
+- API Integration
+- Data Processing
+- Automation Scripts
 
-* Python
-* Requests
-* BeautifulSoup
-* Telethon
-* Pandas
-* Flask
+---
+
+## 🧰 Technologies
+
+- Python
+- Requests
+- BeautifulSoup
+- Telethon
+- Pandas
+- Flask
+
+---
 
 ## 📂 Portfolio Projects
 
-* Telegram Username Scraper
-* Website Email Scraper
-* Internet Connection Monitor
-* PDF to Excel Converter
-* Simple Telegram Bot
+🔹 Internet Connection Monitor  
+Python script that checks internet connectivity and logs outages.
+
+🔹 Website Email Scraper  
+Script that extracts emails from websites automatically.
+
+🔹 Telegram Username Scraper  
+Collects usernames from Telegram groups.
+
+🔹 PDF to Excel Converter  
+Automates conversion of PDF data to Excel.
+
+🔹 Simple Telegram Bot  
+Bot with commands and API integration.
+
+---
 
 ## 📫 Contact
 
-Available for freelance work.
+Available for freelance projects.
